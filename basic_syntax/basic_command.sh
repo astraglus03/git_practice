@@ -30,3 +30,5 @@ git checkout 커밋ID
 git checkout 브랜치명
 
 수정1
+
+임수정1
