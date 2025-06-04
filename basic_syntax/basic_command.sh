@@ -28,3 +28,5 @@ git push origin main --force
 git checkout 커밋ID
 # 특정 branch로 전환
 git checkout 브랜치명
+
+수정1
