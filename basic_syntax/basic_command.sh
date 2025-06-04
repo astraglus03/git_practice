@@ -10,3 +10,13 @@ git commit -m "메시지제목" -m "메시지내용"
 # git commit만 입력하고 엔터시 vi모드 -> 첫줄: 타이틀, 두번째줄부터 내용 입력
 git commit
 
+# 로그 확인하기 
+git log
+git log --oneline
+
+# 원격 저장소에 푸쉬
+git push
+git push origin main
+#충돌 발생시 강제로 푸시하기
+git push origin main --force
+
