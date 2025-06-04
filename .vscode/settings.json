@@ -1,5 +1,4 @@
 {
-    "conventionalCommits.scopes": [
-        "fqwefqwefqw"
-    ]
+    "git.autofetch": true,
+"git.autofetchPeriod": 300
 }
