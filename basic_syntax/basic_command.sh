@@ -29,6 +29,8 @@ git checkout 커밋ID
 # 특정 branch로 전환
 git checkout 브랜치명
 
+비교하기
+
 변경됨
 
 수정1
