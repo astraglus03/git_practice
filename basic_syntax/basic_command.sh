@@ -12,7 +12,11 @@ git commit
 
 # 로그 확인하기 
 git log
+git log --all
 git log --oneline
+
+# head하단의 로그만 보이는것이 아니라, 모든 commit이력을 조회
+# head: 현재 checkout
 
 # 원격 저장소에 푸쉬
 git push
@@ -20,3 +24,7 @@ git push origin main
 #충돌 발생시 강제로 푸시하기
 git push origin main --force
 
+# 특정 commit id로의 전환
+git checkout 커밋ID
+# 특정 branch로 전환
+git checkout 브랜치명
